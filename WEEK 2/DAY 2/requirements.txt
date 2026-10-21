@@ -1,0 +1,3 @@
+# The application uses only Python's standard library.
+# pytest is included for optional future testing.
+pytest

@@ -1,0 +1,27 @@
+logging.basicConfig(
+    filename="app.log",
+    ...
+)2026-10-06 17:43:33,165 - INFO - Starting log analysis for sample_server.log
+2026-10-06 17:43:33,166 - ERROR - Log file 'sample_server.log' was not found.
+2026-10-06 17:43:33,167 - INFO - Log analyzer execution finished.
+2026-10-06 17:44:35,102 - INFO - Starting log analysis for sample_server.log
+2026-10-06 17:44:35,105 - INFO - Log analysis completed successfully.
+2026-10-06 17:44:35,106 - INFO - Log analyzer execution finished.
+2026-10-09 12:56:39,088 - INFO - Starting log analysis for sample_server.log
+2026-10-09 12:56:39,092 - INFO - Log analysis completed successfully.
+2026-10-09 12:56:39,093 - INFO - Log analyzer execution finished.
+2026-10-09 12:57:19,235 - INFO - Starting log analysis for sample_server.log
+2026-10-09 12:57:19,241 - INFO - Log analysis completed successfully.
+2026-10-09 12:57:19,241 - INFO - Log analyzer execution finished.
+2026-10-09 13:05:30,579 - INFO - Starting log analysis for c:\Users\rsmpr\Downloads\BLACKROTH\DAY 2.1\sample_server.log
+2026-10-09 13:05:30,583 - INFO - Log analysis completed successfully.
+2026-10-09 13:05:30,583 - INFO - Log analyzer execution finished.
+2026-10-09 13:06:28,103 - INFO - Starting log analysis for c:\Users\rsmpr\Downloads\BLACKROTH\DAY 2.1\sample_server.log
+2026-10-09 13:06:28,108 - INFO - Log analysis completed successfully.
+2026-10-09 13:06:28,108 - INFO - Log analyzer execution finished.
+2026-10-09 13:06:58,197 - INFO - Starting log analysis for c:\Users\rsmpr\Downloads\BLACKROTH\DAY 2\sample_server.log
+2026-10-09 13:06:58,201 - INFO - Log analysis completed successfully.
+2026-10-09 13:06:58,201 - INFO - Log analyzer execution finished.
+2026-10-09 16:09:04,429 - INFO - Starting log analysis for c:\Users\rsmpr\Downloads\BLACKROTH\DAY 2\sample_server.log
+2026-10-09 16:09:04,434 - INFO - Log analysis completed successfully.
+2026-10-09 16:09:04,435 - INFO - Log analyzer execution finished.
