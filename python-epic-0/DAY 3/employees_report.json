@@ -1,0 +1,23 @@
+{
+    "total_valid_employees": 5,
+    "total_rejected_rows": 0,
+    "department_statistics": {
+        "IT": {
+            "headcount": 2,
+            "average_salary": 66500.0
+        },
+        "HR": {
+            "headcount": 1,
+            "average_salary": 52000.0
+        },
+        "Finance": {
+            "headcount": 1,
+            "average_salary": 72000.0
+        },
+        "Marketing": {
+            "headcount": 1,
+            "average_salary": 58000.0
+        }
+    },
+    "employees_joined_last_90_days": []
+}

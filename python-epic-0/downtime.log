@@ -1,0 +1,3 @@
+2026-10-09 16:07:52,259 - ERROR - URL: https://httpbin.org/status/404 | Status: DOWN | HTTP Code: 404 | Response Time: 1.237 seconds
+2026-10-09 16:08:33,943 - ERROR - URL: https://httpbin.org/status/404 | Status: DOWN | HTTP Code: 404 | Response Time: 1.394 seconds
+2026-10-09 16:27:47,421 - ERROR - URL: https://httpbin.org/status/404 | Status: DOWN | HTTP Code: 404 | Response Time: 1.349 seconds

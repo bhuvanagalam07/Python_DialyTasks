@@ -1,0 +1,23 @@
+2026-10-09 14:57:45,928 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 14:57:45,931 | ERROR | https://example.com | Request timed out
+2026-10-09 14:58:16,096 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 14:58:16,101 | ERROR | https://example.com | Request timed out
+2026-10-09 15:00:46,380 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:00:46,385 | ERROR | https://example.com | Request timed out
+2026-10-09 15:01:52,376 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:01:52,381 | ERROR | https://example.com | Request timed out
+2026-10-09 15:04:47,478 | ERROR | https://httpbin.org/status/404 | HTTP 404
+2026-10-09 15:07:18,906 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:07:18,964 | ERROR | https://example.com | Request timed out
+2026-10-09 15:14:16,270 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:14:16,272 | ERROR | https://example.com | Request timed out
+2026-10-09 15:18:24,644 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:18:24,646 | ERROR | https://example.com | Request timed out
+2026-10-09 15:19:08,019 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 15:19:08,023 | ERROR | https://example.com | Request timed out
+2026-10-09 16:06:08,362 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 16:06:08,366 | ERROR | https://example.com | Request timed out
+2026-10-09 16:07:36,399 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 16:07:36,406 | ERROR | https://example.com | Request timed out
+2026-10-09 16:28:26,822 | ERROR | https://example.com/missing | HTTP 404
+2026-10-09 16:28:26,828 | ERROR | https://example.com | Request timed out

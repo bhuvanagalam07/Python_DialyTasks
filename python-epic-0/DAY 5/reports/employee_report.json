@@ -1,0 +1,18 @@
+{
+    "total_employees": 50,
+    "department_statistics": {
+        "Finance": {
+            "employee_count": 16,
+            "average_salary": 44375.0
+        },
+        "HR": {
+            "employee_count": 16,
+            "average_salary": 37562.5
+        },
+        "IT": {
+            "employee_count": 18,
+            "average_salary": 52861.11
+        }
+    },
+    "employees_joined_last_90_days": []
+}

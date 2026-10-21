@@ -1,0 +1,36 @@
+{
+    "checked_at": "2026-10-08T09:35:28.504838",
+    "results": [
+        {
+            "url": "https://www.google.com",
+            "status": "UP",
+            "status_code": 200,
+            "response_time": 0.477
+        },
+        {
+            "url": "https://jsonplaceholder.typicode.com/posts/1",
+            "status": "UP",
+            "status_code": 200,
+            "response_time": 0.278
+        },
+        {
+            "url": "https://httpbin.org/status/404",
+            "status": "DOWN",
+            "status_code": 404,
+            "response_time": 1.18
+        },
+        {
+            "url": "https://httpbin.org/status/500",
+            "status": "DOWN",
+            "status_code": null,
+            "response_time": 7.471,
+            "error": "HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /status/500 (Caused by ResponseError('too many 500 error responses'))"
+        },
+        {
+            "url": "https://example.com",
+            "status": "UP",
+            "status_code": 200,
+            "response_time": 0.26
+        }
+    ]
+}
