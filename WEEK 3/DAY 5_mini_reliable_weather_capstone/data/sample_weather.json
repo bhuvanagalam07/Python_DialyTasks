@@ -1,0 +1,7 @@
+[
+  {"city": "Hyderabad", "temperature": 32},
+  {"city": "Visakhapatnam", "temperature": 29},
+  {"city": "Bengaluru", "temperature": 25},
+  {"city": "Chennai", "temperature": 34},
+  {"city": "Pune", "temperature": 27}
+]
