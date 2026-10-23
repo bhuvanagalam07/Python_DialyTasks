@@ -1,0 +1,15 @@
+[
+  {"id": "e1",  "endpoint": "/users",    "status": 200, "latency_ms": 35.0,  "timestamp": 0},
+  {"id": "e2",  "endpoint": "/users",    "status": 200, "latency_ms": 42.5,  "timestamp": 1},
+  {"id": "e3",  "endpoint": "/orders",   "status": 201, "latency_ms": 80.0,  "timestamp": 2},
+  {"id": "e4",  "endpoint": "/payments", "status": 500, "latency_ms": 310.0, "timestamp": 3},
+  {"id": "e5",  "endpoint": "/payments", "status": 503, "latency_ms": 450.0, "timestamp": 4},
+  {"id": "e5",  "endpoint": "/payments", "status": 503, "latency_ms": 450.0, "timestamp": 4},
+  {"id": "e6",  "endpoint": "/payments", "status": 502, "latency_ms": 390.0, "timestamp": 5},
+  {"id": "e7",  "endpoint": "/payments", "status": 500, "latency_ms": 520.0, "timestamp": 6},
+  {"id": "e8",  "endpoint": "/users",    "status": 999, "latency_ms": 20.0,  "timestamp": 7},
+  {"id": "e9",  "endpoint": "/users",    "status": 200, "latency_ms": -5.0,  "timestamp": 8},
+  {"id": "e10", "endpoint": "/users",    "status": 200, "latency_ms": 30.0,  "timestamp": 2},
+  {"id": "e11", "endpoint": "/orders",   "status": 200, "latency_ms": 75.0,  "timestamp": 90},
+  {"id": "e12", "endpoint": "/users",    "status": 200, "latency_ms": 33.0,  "timestamp": 91}
+]
