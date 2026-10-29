@@ -1,0 +1,20 @@
+2026-10-16 10:35:10,407 WARNING employee_app.processor: Rejected CSV row 6: Salary must be a number
+2026-10-16 10:35:10,407 WARNING employee_app.processor: Rejected CSV row 7: Salary cannot be negative
+2026-10-16 10:35:10,407 INFO employee_app.processor: Read 5 valid and 2 rejected rows
+2026-10-16 10:35:10,413 INFO __main__: Processing complete: 5 valid, 2 rejected
+2026-10-16 10:35:21,238 WARNING employee_app.processor: Rejected CSV row 6: Salary must be a number
+2026-10-16 10:35:21,239 WARNING employee_app.processor: Rejected CSV row 7: Salary cannot be negative
+2026-10-16 10:35:21,239 INFO employee_app.processor: Read 5 valid and 2 rejected rows
+2026-10-16 10:35:21,243 INFO __main__: Processing complete: 5 valid, 2 rejected
+2026-10-16 10:49:26,365 WARNING employee_app.processor: Rejected CSV row 6: Salary must be a number
+2026-10-16 10:49:26,365 WARNING employee_app.processor: Rejected CSV row 7: Salary cannot be negative
+2026-10-16 10:49:26,365 INFO employee_app.processor: Read 5 valid and 2 rejected rows
+2026-10-16 10:49:26,370 INFO __main__: Processing complete: 5 valid, 2 rejected
+2026-10-22 11:15:20,335 WARNING employee_app.processor: Rejected CSV row 6: Salary must be a number
+2026-10-22 11:15:20,336 WARNING employee_app.processor: Rejected CSV row 7: Salary cannot be negative
+2026-10-22 11:15:20,336 INFO employee_app.processor: Read 5 valid and 2 rejected rows
+2026-10-22 11:15:20,343 INFO __main__: Processing complete: 5 valid, 2 rejected
+2026-10-29 16:08:02,431 WARNING employee_app.processor: Rejected CSV row 6: Salary must be a number
+2026-10-29 16:08:02,433 WARNING employee_app.processor: Rejected CSV row 7: Salary cannot be negative
+2026-10-29 16:08:02,433 INFO employee_app.processor: Read 5 valid and 2 rejected rows
+2026-10-29 16:08:02,439 INFO __main__: Processing complete: 5 valid, 2 rejected
